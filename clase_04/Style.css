@@ -1,0 +1,14 @@
+label{
+    display: block;
+    margin-bottom: .5em;
+}
+
+.relog{
+    width: 200px;
+    height: 100px;
+    margin: 100px auto;
+    font-size: 2em;
+    border: 1px solid #000;
+    text-align: center;
+    
+}

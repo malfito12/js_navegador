@@ -1,0 +1,19 @@
+#publicidad{
+    background: yellow;
+    height: 100px;
+    text-align: center;
+    margin: 1em 0;
+}
+
+.dos{
+    border: 1px solid red;
+    padding: 1em;
+    text-align: center;
+    margin: .5em;
+}
+
+@media screen and (orientation: portrait){
+    body{
+        background: yellow;
+    }
+}
